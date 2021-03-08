@@ -7,4 +7,8 @@ import {Component} from "@angular/core"
 })
 export class first{
     name:string = "";
+
+    Reset(){
+        this.name = "";
+    }
 }
