@@ -1,0 +1,12 @@
+input {
+    display: inline;
+}
+
+p{
+    display: inline;
+    margin-left: 2%;
+}
+
+button{
+    margin-top: 2%;
+}
